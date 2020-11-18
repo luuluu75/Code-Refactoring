@@ -57,7 +57,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("digital-marketing-meeting.jpg");
+    background-image: url("images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;   
 }
@@ -160,14 +160,12 @@ p {
     max-width: 150px;
 }
 
-
-
-
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    display: none;
 }
 
 .footer h2 {

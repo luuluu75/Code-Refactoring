@@ -20,3 +20,4 @@ Changes include:
 - added comments to both files
 - consolidated some of the class styles
 - added responsive link when user clicks on the menu to navigate to the correct section within page
+- hide footer
